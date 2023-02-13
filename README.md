@@ -28,6 +28,6 @@ City Pass offers two mobile applications and one web-based portal, developed usi
 # Installation
 
 Run following commands in root folder of each App:
-yarn install
-yarn run android (Mobile Apps)
-yarn start (Web)
+- yarn install
+- yarn run android (Mobile Apps)
+- yarn start (Web)
